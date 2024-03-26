@@ -6,4 +6,5 @@
 - 🤔 I’m looking for help with developing new projects
 - 📫 How to reach me: cl-117@outlook.com
 - ⚡ Fun fact: I like cats
-![cat gif](https://github.com/cl-117/cl-117/assets/72725446/c4ce5977-9ddb-4e71-835d-e1d3c548cb5e)
+
+![cat gif 2](https://github.com/cl-117/cl-117/assets/72725446/fd1de39f-3994-4485-b584-925f56f5b972)
