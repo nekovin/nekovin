@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-Feel free to shoot me an email here!
-📫 [calvin.d.leighton@nekobytesai.com](mailto:calvin.d.leighton@nekobytesai.com)
-
 - 🎓 I’m currently in my Honours Year at the University of Technology Sydney.
 - 🤖 I'm passionate about machine learning research, with a focus on generative AI and natural language processing (NLP).
 - 🌟 My goal is to make a significant contribution to these fields and drive impactful innovations.
@@ -40,4 +36,4 @@ A comprehensive NLP text classifier that categorizes input texts into various ca
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/CalvinLeighton/)
-[![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:calvin.d.leighton@nekobytesai.com)
+[![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:calvin.d.leighton@nekobytesai.com) 📫 [calvin.d.leighton@nekobytesai.com](mailto:calvin.d.leighton@nekobytesai.com)
