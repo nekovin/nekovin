@@ -43,19 +43,17 @@ A comprehensive NLP text classifier that categorizes input texts into various ca
 ![Certification in NLP](https://img.shields.io/badge/Certification-NLP-blue)
 ![Certification in Generative AI](https://img.shields.io/badge/Certification-Generative%20AI-blue)
 
+![Certification in Machine Learning](https://img.shields.io/badge/Certification-Machine%20Learning-blue) **[Machine Learning by Stanford University (Coursera)](https://www.coursera.org/learn/machine-learning)**
+![Certification in NLP](https://img.shields.io/badge/Certification-NLP-blue) **[Natural Language Processing Specialization by deeplearning.ai (Coursera)](https://www.coursera.org/specializations/natural-language-processing)**
+![Certification in Generative AI](https://img.shields.io/badge/Certification-Generative%20AI-blue) **[Generative Adversarial Networks (GANs) Specialization by deeplearning.ai (Coursera)](https://www.coursera.org/specializations/generative-adversarial-networks-gans)**
+
 ## 📚 Latest Blog Posts
 
 - [Understanding Chain of Thought in Large Language Models](https://your-blog.com/understanding-chain-of-thought)
 - [Generative AI: Innovations and Applications](https://your-blog.com/generative-ai-innovations)
 - [Advanced Techniques in NLP](https://your-blog.com/advanced-nlp-techniques)
 
-## 🏀 Fun Facts
-
-- I enjoy playing basketball in my free time.
-- I love reading sci-fi novels.
-
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/your-username/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Twitter)](https://twitter.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/CalvinLeighton/)
 [![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:calvin.d.leighton@nekobytesai.com)
