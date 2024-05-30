@@ -3,7 +3,7 @@
 🔭 I’m currently in my Honours Year at the University of Technology Sydney
 
 ## How to reach me
-📫 cl-117@outlook.com
+📫 calvin.d.leighton@nekobytesai.com
 
 ## Goals
 I'm extreemely interested in machine learning research. I hope to make a contribution to some sub-field and actually make a difference.
