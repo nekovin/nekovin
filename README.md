@@ -6,7 +6,7 @@
 📫 calvin.d.leighton@nekobytesai.com
 
 ## Goals
-I'm extreemely interested in machine learning research. I hope to make a contribution to some sub-field and actually make a difference.
+I'm very interested in machine learning research. I hope to make a contribution to some sub-field and actually make a difference.
 
 ## Interests
 - Movies and film in general
