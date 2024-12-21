@@ -35,5 +35,5 @@ A comprehensive NLP text classifier that categorizes input texts into various ca
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/CalvinLeighton/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/cleighton/)
 [![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:calvin.d.leighton@nekobytesai.com) 📫 [calvin.d.leighton@nekobytesai.com](mailto:calvin.d.leighton@nekobytesai.com)
