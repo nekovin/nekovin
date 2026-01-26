@@ -19,7 +19,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekovin&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekovin&show_icons=true&hide_border=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekovin&layout=compact)
 
 ## 🔧 Favourite Project(s)
@@ -36,4 +36,4 @@ A comprehensive NLP text classifier that categorizes input texts into various ca
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/cleighton/)
-[![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:calvin.d.leighton@outlook.com) 📫 [calvin.d.leighton@nekobytesai.com](mailto:calvin.d.leighton@outlook.com)
+[![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:calvin.d.leighton@outlook.com) 📫 [calvin.d.leighton@outlook.com](mailto:calvin.d.leighton@outlook.com)
