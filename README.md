@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-## 📈 GitHub Stats
+## 📈 GitHub **Personal Profile** Stats
 
 ![Your GitHub Stats](./profile/stats.svg) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekovin&layout=compact)
