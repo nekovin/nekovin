@@ -19,7 +19,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekovin&show_icons=true&hide_border=true) 
+![Your GitHub Stats](./profile/stats.svg) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekovin&layout=compact)
 
 ## 🔧 Favourite Project(s)
