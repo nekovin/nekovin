@@ -24,14 +24,7 @@
 
 ## 🔧 Favourite Project(s)
 
-### [COT-Companion](https://github.com/nekovin/COT-Companion)
-A tool to enhance chain-of-thought reasoning in large language models, focusing on improving response quality based on text classification.
-
-### [Generative Art with GANs](https://github.com/nekovin/Generative-Art-GANs)
-A project exploring the use of Generative Adversarial Networks (GANs) for creating art.
-
-### [NLP Text Classifier](https://github.com/nekovin/NLP-Text-Classifier)
-A comprehensive NLP text classifier that categorizes input texts into various categories using advanced NLP techniques.
+beep
 
 ## 📫 Contact Me
 
