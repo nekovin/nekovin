@@ -1,12 +1,7 @@
-## Hi there 👋
-- 🎓 I’m currently in my Honours Year at the University of Technology Sydney.
-- 🤖 I'm passionate about machine learning research, with a focus on generative AI and natural language processing (NLP).
-- 🌟 My goal is to make a significant contribution to these fields and drive impactful innovations.
-- 🐱 Love my cats
-
+## Heyo
 ![cat gif](https://github.com/cl-117/cl-117/assets/72725446/fd1de39f-3994-4485-b584-925f56f5b972)
 
-## 🛠️ Skills and Technologies
+## Skills and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
@@ -17,16 +12,16 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-## 📈 GitHub **Personal Profile** Stats
+## GitHub **Personal Profile** Stats
 
 ![Your GitHub Stats](./profile/stats.svg) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekovin&layout=compact)
 
-## 🔧 Favourite Project(s)
+## Favourite Project(s)
 
 beep
 
-## 📫 Contact Me
+## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/cleighton/)
 [![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:calvin.d.leighton@outlook.com) 📫 [calvin.d.leighton@outlook.com](mailto:calvin.d.leighton@outlook.com) 
